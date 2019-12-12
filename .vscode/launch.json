@@ -1,0 +1,30 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FamousQuote",
+            "request": "launch",
+            "mainClass": "FamousQuote",
+            "projectName": "JA_APCS_19-20_8dd2e2a3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaWordPattern",
+            "request": "launch",
+            "mainClass": "JavaWordPattern",
+            "projectName": "JA_APCS_19-20_8dd2e2a3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ATableOfVariables",
+            "request": "launch",
+            "mainClass": "ATableOfVariables"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld"
+        }
+    ]
+}

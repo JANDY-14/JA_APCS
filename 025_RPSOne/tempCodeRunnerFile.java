@@ -1,0 +1,1 @@
+playerin = player.toUpperCase();
