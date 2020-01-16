@@ -12,7 +12,7 @@ public class SimpleCounterButAForLoop
         System.out.println(e+1);  
         ///////////////////////////
         for(int i = 300; i > 0; i--)  
-        System.out.println(i);  
+        System.out.printlns(i);  
         //////////////////////////
         for(int w = 4798; w < 5234; w++)  
         System.out.println(w+1);  
