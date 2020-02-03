@@ -9,14 +9,14 @@ public class AbecedarianWords
                 String input = scan.next();
                 scan.close();
     /////////////////////////////////////////////////
-    boolean che = isAbc(input);
+    boolean check = isAlpha(input);
     /////////
-    if (che == true) {
+    if (check == true) {
         System.out.println(input + " is an abecedarian");
     } else {
         System.out.println(input + " is not an abecedarian");
     }
-    ////////
+    
     
 }
         

@@ -15,7 +15,7 @@ for (int i = 0; i < word.length() -1 ; i++){
     System.out.print(sub + "-"); 
 }
 
-//  System.out.println( word + "," + word +" is spelled");
+//  System.out.println( word+ "," + wor d +" is spelled");
  
     }
 
