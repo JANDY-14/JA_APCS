@@ -8,7 +8,7 @@ public class WeeklyHighTemps
         //printing out the weekly forecast 
         String[] temp = {"32", "26", "34", "32", "41"};
         System.out.println("Monday:" + temp[0] + " Tuesday:" + temp[1] + " Wensday:" + temp[2] + " Thursday:" + temp[3] + " Friday:" + temp[4] );
-         
+         //comment update
          
     } 
 }//noice 

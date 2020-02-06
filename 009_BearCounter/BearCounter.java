@@ -4,5 +4,6 @@
     {
    int B=(1);
     System.out.println("how many bears are coming? ="+ ++B);
+    //comment update
     } 
 }

@@ -46,5 +46,6 @@ public class RPSOne {
         ////////////////////////////////////////////////////////////////////
             else
                 System.out.println("Invalid input.");
+                //comment update
     }
 }

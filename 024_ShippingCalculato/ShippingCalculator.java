@@ -22,6 +22,7 @@ public class ShippingCalculator {
         //////elif////////////
         else if (w > 10 && w <=20){
         System.out.println("the price to ship your package is $10.50");}
+        //comment update
         
 
 

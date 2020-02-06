@@ -15,6 +15,7 @@ public class SummationOfASeries
     int sum = NumOne + NumTwo +  NumThree + NumFour + NumFive + NumSix + NumSeven +  NumEight + NumNine;
 
     System.out.println(sum);
+    //comment update
     }
 
 }

@@ -6,6 +6,6 @@ public class LorumIpsumSubString
    String keyword = ("aliquam");
    System.out.println(lore.contains(keyword)); 
 
-
+//comment update
     } 
 }//noice

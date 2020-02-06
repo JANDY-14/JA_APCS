@@ -35,5 +35,6 @@ public class YetAgainRefactorATableOfVariables {
         System.out.println(Othree + "          " + SQthree + "             " + CUthree);
         System.out.println(Ofour + "          " + SQfour + "            " + CUfour);
         System.out.println(Uone  + "          " + Utwo + "               " + Ufour);
+        //comment update
     }
 }

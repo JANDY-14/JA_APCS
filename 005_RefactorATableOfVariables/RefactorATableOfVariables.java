@@ -22,5 +22,6 @@ public class RefactorATableOfVariables {
     System.out.println( Otwo +"          "+ SQtwo + "             "+ CUtwo );
     System.out.println( Othree +"          "+ SQthree + "             "+ CUthree );
     System.out.println( Ofour +"          "+ SQfour + "            "+ CUfour );
+    //comment update
     }
 }

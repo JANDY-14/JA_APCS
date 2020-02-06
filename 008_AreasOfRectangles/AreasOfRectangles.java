@@ -12,5 +12,6 @@ public class AreasOfRectangles
       System.out.println(1270075.565 * 90029384 + "Cm");
       //rec 5 
       System.out.println();
+      //comment update
     } 
 }

@@ -10,5 +10,6 @@ public class SimpleCounter
         int u = scan.nextInt();
         for(int i = 0; i < u; i++)  
         System.out.println(i+1);  
+        //comment update
     }
 }// noice

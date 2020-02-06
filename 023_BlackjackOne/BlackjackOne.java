@@ -51,6 +51,7 @@ public class BlackjackOne {
 
             else if (total >= 22) {
                 System.out.println("you went over 21 so the dealer wins");
+                //comment update
             }
         }
     

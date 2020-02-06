@@ -10,7 +10,7 @@ int strLen = Ipsum.length();
 System.out.println("the length of lorem is:" + strLen);
 //This is starting the ipsum object to 900 chars
  System.out.println(Ipsum.substring(900));
-
+//comment update
 
 
 
